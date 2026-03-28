@@ -1,0 +1,1 @@
+-- This SQL including all codes to create procedures for ingestion process
